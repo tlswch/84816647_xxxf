@@ -2,28 +2,29 @@
 {
 
   
-"spider": "https://agit.ai/84816647/CJH/raw/branch/master/JAR/07044.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/18.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/XBiubiuLA2.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/XBiubiuLA3.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/XBiubiuLA4.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/custom_spider.jar.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/qj0720_spider.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/bc0630.jar",	
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/bc0701.jar",		
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/pyy0706clearjingjian.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/pyy07061553clear.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/pyy07061553clear_2.jar",	
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/ts0621.jar",		
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/ts0630.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/ts0709.jar",
-"spider":"https://agit.ai/84816647/CJH/raw/branch/master/JAR/0718.jar",
+"spider": "https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/07044.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/18.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/XBiubiuLA2.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/XBiubiuLA3.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/XBiubiuLA4.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/custom_spider.jar.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/qj0720_spider.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/bc0630.jar",	
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/bc0701.jar",		
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/pyy0706clearjingjian.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/pyy07061553clear.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/pyy07061553clear_2.jar",	
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/ts0621.jar",		
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/ts0630.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/ts0709.jar",
+"spider":"https://agit.ai/cjh198488/CJH/raw/branch/master/JAR/0718.jar",
 
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NqaDE5ODQ4OC9DSkgvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvWC50eHQ="]}]}],
 "sites":[
-
+{"key":"csp_CZSPP","name":"[默认]绿色环保","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"18","name":"🔞🈲未成年人禁止访问！","type":0,"api":""},
 {"key":"色色资源站A","name":"色色资源站A","type":0,"api":"http://secj8.com/inc/sapi.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"玖玖资源站A","name":"玖玖资源站A","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"狼少年A","name":"狼少年A","type":0,"api":"http://cjmygzy.com//inc/sapi.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
@@ -37,22 +38,14 @@
 {"key":"老鸭资源网A","name":"老鸭资源网A","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 
 
-
-
-
-
-{"key":"csp_xpath_扛把子影院","name":"扛把子影院(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/84816647/tv/raw/branch/main/MeowXP/%e6%89%9b%e6%8a%8a%e5%ad%90%e5%bd%b1%e9%99%a2%28xpf%29.json"},
 {"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"老鸭TV2","name":"老鸭TV2","type":1,"api":"https://laoyatv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"老鸭TV","name":"老鸭TV","type":1,"api":"https://laoyatv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"csp_CZSPP","name":"[默认]绿色环保","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"91麻豆","name":"91麻豆源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"SB资源","name":"SB资源","type":0,"api":"http://www.shabizy.com:777/inc/sea","searchable":0,"quickSearch":0},
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"丝袜资源","name":"丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"丝袜资源3","name":"丝袜资源3","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"丝袜资源2","name":"丝袜资源2","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","playUrl":"https://help.siwazywcdn2.com:5278/m3u8.php?url=","searchable":1,"quickSearch":1},
-{"key":"18","name":"🔞🈲未成年人禁止访问！","type":0,"api":""},
+
 {"key":"91md","name":"1️⃣6️⃣（综合）","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"hy","name":"1️⃣（高清无码-速度慢）","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"sy","name":"2️⃣（综合）","type":1,"api":"https://shayuapi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
