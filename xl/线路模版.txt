@@ -5,7 +5,7 @@
             "name": "🏝🌈专用影院"
         },
       {
-             "url": "https://agit.ai/84816647/Tv/raw/branch/master/tvbox.json ",
+             "url": "https://agit.ai/84816647/xxxf/raw/branch/master/lib/tvbox.json ",
             "name": "🏝🌈tvbox影院"
         },
         {
@@ -13,7 +13,7 @@
             "name": "🏝🌈天天影院"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/lib/jmxl.txt",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/lib/jmxl.txt",
             "name": "🏝🌈聚合直播"
         },
         {
