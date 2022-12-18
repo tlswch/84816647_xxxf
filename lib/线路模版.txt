@@ -1,0 +1,61 @@
+{
+    "urls": [
+       {
+           "url": "https://agit.ai/84816647/Tv/raw/branch/master/tvbox.json ",
+            "name": "🏝🌈tvbox影院"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt ",
+            "name": "🏝🌈天天影院"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/lib/jmxl.txt",
+            "name": "🏝🌈聚合直播"
+        },
+        {
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🏝🌈娱乐影院01"
+        },
+        {
+            "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/ss.json",
+            "name": "🏝🌈娱乐影院02"
+        },
+
+       {    "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
+            "name": "🏝🌈娱乐影院03"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/1.json",
+            "name": "🏝🌈娱乐影院04"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/2.json",
+            "name": "🏝🌈娱乐影院05"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/3.json",
+            "name": "🏝🌈娱乐影院06"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/4.json",
+            "name": "🏝🌈娱乐影院07"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/6.json",
+            "name": "🏝🌈娱乐影院08"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/7.json",
+            "name": "🏝🌈娱乐影院09"
+        },
+        {
+            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/18.json",
+            "name": "🏝🌈娱乐影院10"
+        },
+        {
+            "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
+            "name": "🏝🌈懒人影视"
+         }
+
+    ]
+}
