@@ -1,6 +1,6 @@
 {
 	"wallpaper": "https://picsum.photos/1080/",
-	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
+	"spider": "https://agit.ai/84816647/xxxf/raw/branch/master/jar/h.jar",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
