@@ -5,7 +5,7 @@
             "name": "🏝🌈专用影院"
         },
       {
-            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/xl/tvbox.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/lib/tvbox.json",
             "name": "🏝🌈tvbox影院"
         },
        {
