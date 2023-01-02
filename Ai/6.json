@@ -1,18 +1,4 @@
 {
-    "spider": "https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;7dce83663b899ef6df33fef9bbe241f8",
-    "lives": [
-        {
-            "group": "直播",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="
-                    ]
-                }
-            ]
-        }
-    ],
     "sites": [
         {
             "key": "csp_Alist1",
