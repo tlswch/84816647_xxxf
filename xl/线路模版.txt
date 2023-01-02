@@ -24,11 +24,7 @@
             "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/ss.json",
             "name": "🏝🌈娱乐影院02"
         },
-
-       {    "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
-            "name": "🏝🌈娱乐影院03"
-        },
-        {
+      {
             "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/1.json",
             "name": "🏝🌈娱乐影院04"
         },
