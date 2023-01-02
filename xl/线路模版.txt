@@ -57,10 +57,6 @@
             "name": "🏝🌈娱乐影院09"
         },
         {
-            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/18.json",
-            "name": "🏝🌈娱乐影院10"
-        },
-        {
             "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
             "name": "🏝🌈懒人影视"
          }
