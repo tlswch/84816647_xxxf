@@ -29,31 +29,31 @@
             "name": "🏝🌈娱乐影院03"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/1.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/1.json",
             "name": "🏝🌈娱乐影院04"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/2.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/2.json",
             "name": "🏝🌈娱乐影院05"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/3.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/3.json",
             "name": "🏝🌈娱乐影院06"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/4.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/4.json",
             "name": "🏝🌈娱乐影院07"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/6.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/6.json",
             "name": "🏝🌈娱乐影院08"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/7.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/7.json",
             "name": "🏝🌈娱乐影院09"
         },
         {
-            "url": "https://agit.ai/84816647/Tv/raw/branch/master/Ai/18.json",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/18.json",
             "name": "🏝🌈娱乐影院10"
         },
         {
