@@ -21,7 +21,7 @@
             "name": "🏝🌈酒友影院"
         },
         {
-            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/lib/jmxl.txt",
+            "url": "https://agit.ai/84816647/xxxf/raw/branch/master/Ai/18.json",
             "name": "🏝🌈聚合直播"
         },
         {
